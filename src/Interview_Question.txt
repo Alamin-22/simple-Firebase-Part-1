@@ -1,0 +1,10 @@
+1. What is Firebase?
+2. Is Firebase frontend or backend?
+3. What are the features of firebase?/ What are the task you can accomplish with firebase?
+4. Difference between firebase and mongobd?
+5. Have you ever used firebase database(real time database? )
+6.Can You Briefly explain the github authentication process with firebase?
+7. which method is used to singin the user in firebase Email/Password authentication?
+8. Authentication VS Authorization
+9. Can you tell me name of 3 authentication method
+10. Which authentication methods have you ever used for your projects purpose?
